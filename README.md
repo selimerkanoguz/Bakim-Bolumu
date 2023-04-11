@@ -1,4 +1,4 @@
-# Bakim-Bolumu
+# Bakim-Bölumu
 # Bakım Bölümü Yazılımı - Kompanzasyon Takip
 
 Bakım bölümü Yazılımı İle Kompanzasyon Takibini Yapabilirsiniz.
